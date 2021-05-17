@@ -13,5 +13,5 @@ pip install -r requirements_1.txt
 - file name is 'your_report.html'
 
 ### Note: In-case there are some issues in the setting up environment and running notebook
-### Feel free to visit my github page --> https://github.com/javedhassans/Exploration-of-geopspcae-data
+### Feel free to visit my github page --> https://github.com/javedhassans/tomtom_assig
 ### you can view the jupyter file there.
