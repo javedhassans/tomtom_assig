@@ -1,0 +1,6 @@
+jupyter
+pandas
+seaborn
+pandas-profiling[notebook]
+autoviz
+xlrd
